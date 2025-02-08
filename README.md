@@ -24,7 +24,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - ArgoCD (CD)
 - Redis (Caching)
 - AWS EKS (Kubernetes)
-- Helm (Monitoring using grafana and prometheus)
 
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
@@ -66,7 +65,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 > [!Note]
 > We are creating this one machine with the help of terraform 
-[Folder Name](./TerraForm)
+[TerraForm](./TerraForm)
 
 
 
