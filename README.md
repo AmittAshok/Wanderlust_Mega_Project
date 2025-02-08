@@ -65,7 +65,10 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 ![image](https://github.com/user-attachments/assets/4e5ecd37-fe2e-4e4b-a6ba-14c7b62715a3)
 
 > [!Note]
-> We are creating this master machine because we will configure Jenkins master, eksctl, EKS cluster creation from here.
+> We are creating this one machine with the help of terraform 
+[Folder Name](./TerraForm)
+
+
 
 Install & Configure Docker by using below command, "NewGrp docker" will refresh the group config hence no need to restart the EC2 machine.
 
